@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CommonModule:war">
+    <output-path>$PROJECT_DIR$/CommonModule/target</output-path>
+    <root id="archive" name="01.CommonModule.war">
+      <element id="artifact" artifact-name="CommonModule:war exploded" />
+    </root>
+  </artifact>
+</component>
